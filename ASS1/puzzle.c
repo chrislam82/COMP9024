@@ -1,6 +1,7 @@
 // COMP9024 2019T2
 // Date: 29/06/2019
 // Assignment 1 - puzzle.c
+// Reads input for a sliding puzzle and determines solvability if input is valid
 
 #include <stdio.h>
 #include <stdlib.h>

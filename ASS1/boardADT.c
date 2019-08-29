@@ -1,6 +1,4 @@
 // COMP9024 2019T2
-// Name: Christopher Shu Chun Lam
-// zID: z3460499
 // Date: 29/06/2019
 // Assignment 1 - boardADT.c (ADT Implementation)
 

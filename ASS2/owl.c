@@ -1,6 +1,7 @@
 /* COMP9024 2019T2
  * Last Modified: 11/08/2019
  * Assignment 2 - owl.c
+ * Program to find longest ordered word ladder given a set of inputs
  */ 
 
 # include <stdio.h>

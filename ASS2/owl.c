@@ -1,6 +1,4 @@
 /* COMP9024 2019T2
- * Name: Christopher Shu Chun Lam
- * zID: z3460499
  * Last Modified: 11/08/2019
  * Assignment 2 - owl.c
  */ 
